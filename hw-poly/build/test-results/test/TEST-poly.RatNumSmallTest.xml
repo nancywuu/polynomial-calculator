@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="poly.RatNumSmallTest" tests="36" skipped="0" failures="0" errors="0" timestamp="2021-04-23T05:46:53" hostname="Nancys-MacBook-Air.local" time="0.189">
+  <properties/>
+  <testcase name="testTwoArgConstructor" classname="poly.RatNumSmallTest" time="0.031"/>
+  <testcase name="testAddImproper" classname="poly.RatNumSmallTest" time="0.03"/>
+  <testcase name="testToStringSimple" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testDivComplex" classname="poly.RatNumSmallTest" time="0.002"/>
+  <testcase name="testIsPosAndIsNeg" classname="poly.RatNumSmallTest" time="0.002"/>
+  <testcase name="testCompareToFract" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testMulProperties" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testDivSimple" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testMulSimple" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testToStringNaN" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testAddTransitively" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testSubComplex" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testIsNaN" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testCompareToReflexive" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testCompareToNonFract" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testAddOnNaN" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testEqualsReflexive" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testDivTransitively" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testValueOf" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testMulComplex" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testSubImproper" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testSubSimple" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testSubTransitively" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testAddSimple" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testCompareToNaNs" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testDivOnNaN" classname="poly.RatNumSmallTest" time="0.002"/>
+  <testcase name="testApprox" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testEquals" classname="poly.RatNumSmallTest" time="0.019"/>
+  <testcase name="testMulOnNaN" classname="poly.RatNumSmallTest" time="0.005"/>
+  <testcase name="testMulTransitively" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testMulImproper" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testNegate" classname="poly.RatNumSmallTest" time="0.003"/>
+  <testcase name="testDivImproper" classname="poly.RatNumSmallTest" time="0.004"/>
+  <testcase name="testToStringFractions" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testOneArgConstructor" classname="poly.RatNumSmallTest" time="0.001"/>
+  <testcase name="testAddComplex" classname="poly.RatNumSmallTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
